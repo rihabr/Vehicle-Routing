@@ -9,4 +9,4 @@ There were multiple components to this project:
 * Formulate optimization model (Julia, JuMP, Gurobi)
 * Visualize the routes suggested by the model (Tableau)
 
-Further details and findings about the projects can be found in the final presentation file titled "Logistics Route Optimization - Presentation"
+Further details and findings froms the projects can be found in the final presentation file titled "Logistics Route Optimization - Presentation"
