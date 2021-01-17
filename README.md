@@ -1,6 +1,6 @@
 This project creates an optimal vehicle routing schedule based on real data and a real-world scenario faced by a logistics company. This project was completed in partnership with the logistics company as well as fellow MIT colleagues.
 
-The aim was to decide which pickup stops would be on which route, the order of the stops, and the arrival time. This was subject to business constraints such as traveling to all the stops, number of cars, start and end locations, availability windows.
+The aim was to decide which client stops would be on which route, the order of the stops, and the arrival time. This was subject to business constraints such as traveling to all the stops, number of cars, start and end locations, as well as time availability of the clients.
 
 There were multiple components to this project:
 
